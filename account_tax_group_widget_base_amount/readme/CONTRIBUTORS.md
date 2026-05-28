@@ -2,3 +2,5 @@
   - David Vidal
   - Víctor Martínez
 - Dhara Solanki \<dhara.solanki@initos.com\>
+- [STeSI Consulting](https://stesi.consulting)
+  - Michele Di Croce \<dicroce.m@stesi.consulting\>
