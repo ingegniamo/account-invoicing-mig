@@ -1,6 +1,6 @@
-# server-ux
+# account-invoicing-mig
 
-server-ux
+Odoo 19.0 migrations of OCA/account-invoicing modules not yet available upstream.
 
 <!-- /!\ do not modify below this line -->
 
@@ -12,7 +12,8 @@ Available addons
 ----------------
 addon | version | maintainers | summary
 --- | --- | --- | ---
-[account_move_substate](account_move_substate/) | 18.0.1.0.0 | <a href='https://github.com/giovannigd'><img src='https://github.com/giovannigd.png' width='32' height='32' style='border-radius:50%;' alt='giovannigd'/></a> | Account Move Sub State
+[account_tax_group_widget_base_amount](account_tax_group_widget_base_amount/) | 19.0.1.0.0 | <a href='https://github.com/chienandalu'><img src='https://github.com/chienandalu.png' width='32' height='32' style='border-radius:50%;' alt='chienandalu'/></a> | Adds base amount to tax group widget
+[product_customerinfo_invoice](product_customerinfo_invoice/) | 19.0.1.0.0 |  | Based on product_customerinfo, this module loads in every account invoice the customer code defined in the product
 
 [//]: # (end addons)
 
