@@ -100,6 +100,7 @@ msgstr ""
 #: model:ir.actions.act_window,name:account_move_tag.account_move_tag_action
 #: model:ir.ui.menu,name:account_move_tag.menu_account_move_tag
 #: model_terms:ir.ui.view,arch_db:account_move_tag.account_move_tag_view_form
+#: model_terms:ir.ui.view,arch_db:account_move_tag.view_account_invoice_filter_inherit
 #: model_terms:ir.ui.view,arch_db:account_move_tag.view_account_move_filter_inherit
 #: model_terms:ir.ui.view,arch_db:account_move_tag.view_account_move_line_filter_inherit
 #: model_terms:ir.ui.view,arch_db:account_move_tag.view_invoice_tree_inherit
